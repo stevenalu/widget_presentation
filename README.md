@@ -9,11 +9,11 @@ To run this project you must have Flutter with all its dependencies installed.
 
 1. Clone the repo
    ```
-   git clone https://github.com/<your-username>/<your-repo>.git
+   [git clone https://github.com/<your-username>/<your-repo>.git](https://github.com/stevenalu/widget_presentation.git)
    ```
 2. Move inside the project
    ```
-   cd DaysWidget/demo_app
+   cd demo_app
    ```
 3. Get the packages
    ```
