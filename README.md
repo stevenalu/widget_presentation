@@ -39,8 +39,9 @@ This is the content rendered on top of the blurred backdrop, here a semi-transpa
 
 Below is a screenshot of the glass card rendered over the background image:
 
-<img width="397" height="855" alt="Glassmorphism card demo" src="PASTE_GITHUB_ASSET_URL_HERE" />
+<img width="217" height="465" alt="Screenshot 2026-07-02 114948" src="https://github.com/user-attachments/assets/61b7e9a7-3a16-4a50-9754-cdcf88371f37" />
+
 
 ## In-Class Presentation Date
 
-Presented on: <!-- add the date you presented, e.g. 2026-07-02 -->
+Presented on: 2026-07-02
